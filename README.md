@@ -63,11 +63,6 @@ Built using **ServiceNow Platform Analytics (Inline Editor)** with the following
 - 📊 Incidents by Category — Bar Chart
 - 🥧 Incidents by Priority — Pie Chart
 - 📊 Incidents by State — Bar Chart
-- 🔴 Overdue Incidents
-- ⏰ Incidents Nearing SLA
-- 🔄 Open Incidents Not Updated
-- 📈 Incidents Created by Priority (Timeline)
-- ⏱️ Mean Time to Resolve by Priority
 
 ---
 
@@ -162,9 +157,9 @@ Action:     Assign to → Service Desk Group
 
 **Darshan**
 Master's in Data Science | University of New Haven
-📧 [Your Email]
-🔗 [Your LinkedIn]
-🌐 [Your Portfolio Website]
+📧 [vdars1@unh.newhaven.edu]
+🔗 [https://www.linkedin.com/in/vitturamadasudarshan]
+🌐 [https://github.com/vtooooooo/portfolio/]
 
 ---
 
