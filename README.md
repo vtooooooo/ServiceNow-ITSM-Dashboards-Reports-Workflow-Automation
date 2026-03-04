@@ -133,7 +133,7 @@ Action:     Assign to → Service Desk Group
 
 ## 📸 Dashboard Preview
 
-> *See `dashboard/IT_Operations_Dashboard.pptx` for full dashboard export*
+> *See `dashboard/IT_Operations.pptx` for full dashboard export*
 
 ---
 
